@@ -1,4 +1,4 @@
-makeVector <- function(x = numeric()) {
+makeVector <- function(x = numeric()) {    
         m <- NULL
         set <- function(y) {
                 x <<- y
